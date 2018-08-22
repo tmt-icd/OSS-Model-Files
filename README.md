@@ -1,2 +1,13 @@
 # OSS-Model-Files
 Observatory Safety System ICD model files
+
+Based on document: 
+
+_FRAMEWORK SOFTWARE INTERFACE CONTROL DOCUMENT
+
+OBSERVATORY SAFETY SYSTEM TO EXECUTIVE SOFTWARE 
+
+(TMT.SEN.ICD.17.007.CCR01)_
+
+April 11, 2018
+
